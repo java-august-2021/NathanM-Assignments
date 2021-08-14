@@ -10,5 +10,7 @@ public class GorillaTest {
         gor.eatBanana();
         //climb once
         gor.climbTree();
+        //display energy level of 95
+        gor.displayEnergy();
     }
 }

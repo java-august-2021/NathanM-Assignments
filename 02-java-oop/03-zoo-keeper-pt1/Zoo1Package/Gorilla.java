@@ -16,6 +16,6 @@ public class Gorilla extends Mammal{
     //climb minus 10
     public void climbTree(){
         System.out.println("Gorilla getting tired from climbing trees all day!");
-        this.energyLevel -= 5;
+        this.energyLevel -= 10;
     }
 }
