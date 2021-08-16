@@ -10,12 +10,12 @@ public class Galaxy extends Phone implements Ringable {
     @Override
     public String unlock() {
         // your code here
-        return "Galaxy unlocked";
+        return "Unlocking via finger print";
     }
     @Override
     public void displayInfo() {
         // your code here
-        System.out.println("IPhone " + getVersionNumber() + " from " + getCarrier() + " has " + getBatteryPercentage() + "% battery.");             
+        System.out.println("Galaxy " + getVersionNumber() + " from " + getCarrier() + " has " + getBatteryPercentage() + "% battery.");             
     }
 }
 

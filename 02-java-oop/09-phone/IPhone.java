@@ -10,12 +10,12 @@ public class IPhone extends Phone implements Ringable {
     @Override
     public String unlock() {
         // your code here
-        return "iPhone unlocked";
+        return "Unlocking via facial recognition";
     }
     @Override
     public void displayInfo() {
         // your code here
-        System.out.println("Galaxy " + getVersionNumber() + " from " + getCarrier() + " has " + getBatteryPercentage() + "% battery.");             
+        System.out.println("iPhone " + getVersionNumber() + " from " + getCarrier() + " has " + getBatteryPercentage() + "% battery.");             
     }
 }
 

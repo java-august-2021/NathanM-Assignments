@@ -4,12 +4,9 @@ public interface Ringable {
 
     //failed with static/abstract method... must use default
 
-    public default String ring(){
-        return "Ring Ring Ring!";
+    public String ring();
+
+    public String unlock();
     }
 
-    public default String unlock(){
-        return "Phone unlocked";
-    }
-}
 
