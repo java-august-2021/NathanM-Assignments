@@ -1,0 +1,556 @@
+!SESSION 2021-08-19 19:48:35.816 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4 -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4 -data C:\Users\Nathan\OneDrive\Desktop\Java_Stack\springWorkplace -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.jface 2 0 2021-08-19 19:48:39.462
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-08-19 19:48:39.463
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4eb48298,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2d3bb944,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-08-19 19:48:43.780
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Nathan'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY Activator 1 0 2021-08-19 19:53:43.361
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2021-08-19 19:53:43.599
+!MESSAGE Project facet wst.jsdt.web has not been defined. It is used in plugin org.eclipse.jst.server.core.
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2021-08-19 19:53:43.599
+!MESSAGE Project facet wst.jsdt.web has not been defined. It is used in plugin org.eclipse.jst.server.preview.adapter.
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2021-08-19 19:53:43.600
+!MESSAGE Project facet wst.jsdt.web has not been defined. It is used in plugin org.eclipse.jst.server.tomcat.core.
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2021-08-19 19:53:43.600
+!MESSAGE Project facet wst.jsdt.web has not been defined. It is used in plugin org.eclipse.wst.server.http.core.
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2021-08-19 19:53:43.601
+!MESSAGE Project facet wst.jsdt.web has not been defined. It is used in plugin org.eclipse.wst.server.preview.adapter.
+
+!ENTRY org.eclipse.ui 2 2 2021-08-19 19:53:43.828
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY Activator 1 0 2021-08-19 19:53:45.998
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-19 19:53:46.265
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-19 19:53:47.033
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-19 19:53:48.110
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-19 19:53:48.894
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-19 19:54:06.668
+!MESSAGE Has main method computation for project 'firstproject'
+!SESSION 2021-08-19 19:54:22.388 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.core.resources 2 10035 2021-08-19 19:54:24.018
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jface 2 0 2021-08-19 19:54:26.032
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-08-19 19:54:26.032
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@34647f58,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@14b96c1e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-08-19 19:54:30.241
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Nathan'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY Activator 1 0 2021-08-19 19:54:32.257
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-19 19:54:33.220
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-19 19:54:34.395
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-19 19:54:36.331
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY org.eclipse.ui 2 2 2021-08-19 19:55:25.686
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY Activator 1 0 2021-08-19 19:59:36.101
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 19:59:36.155
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 19:59:36.156
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@7381eb15[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 19:59:36.167
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 19:59:36.333
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 19:59:41.584
+!MESSAGE Boot LS startup time from start to initialized: 5411ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 19:59:41.689
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.MiREkXqAisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 19:59:41.692
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 19:59:41.694
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 19:59:41.695
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 19:59:41.695
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 19:59:41.696
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.MiREkXqA => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 19:59:41.701
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 19:59:41.703
+!MESSAGE buffering callback sts4.classpath.MiREkXqA firstproject false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 19:59:41.704
+!MESSAGE executing callback sts4.classpath.MiREkXqA 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 19:59:42.044
+!MESSAGE executing callback sts4.classpath.MiREkXqA SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-08-19 20:04:16.500
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-19 20:04:17.044
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-19 20:09:35.421
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-19 20:09:36.012
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:10:54.623
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.MiREkXqA
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:10:54.624
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.MiREkXqA
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:10:54.624
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:10:54.625
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.MiREkXqA => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:10:56.925
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:10:56.926
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@7381eb15[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:10:56.926
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:10:58.866
+!MESSAGE Boot LS startup time from start to initialized: 1938ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:10:58.934
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.HqrzfpHCisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:10:58.935
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:10:58.937
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:10:58.937
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:10:58.938
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.HqrzfpHC => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:10:58.938
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:10:58.941
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:10:58.944
+!MESSAGE buffering callback sts4.classpath.HqrzfpHC firstproject false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:10:58.944
+!MESSAGE executing callback sts4.classpath.HqrzfpHC 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:10:59.183
+!MESSAGE executing callback sts4.classpath.HqrzfpHC SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-08-19 20:13:22.994
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-19 20:13:23.057
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-19 20:13:23.104
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-19 20:13:23.984
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-19 20:13:24.024
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-19 20:13:24.353
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-19 20:13:24.384
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:13:24.430
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:13:24.431
+!MESSAGE classpath=1 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:13:24.431
+!MESSAGE buffering callback sts4.classpath.HqrzfpHC strings false 1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:13:24.432
+!MESSAGE executing callback sts4.classpath.HqrzfpHC 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:13:24.481
+!MESSAGE executing callback sts4.classpath.HqrzfpHC SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-08-19 20:13:24.581
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-19 20:13:24.648
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:13:24.651
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:13:24.656
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:13:24.658
+!MESSAGE buffering callback sts4.classpath.HqrzfpHC strings false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:13:24.659
+!MESSAGE executing callback sts4.classpath.HqrzfpHC 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:13:24.702
+!MESSAGE executing callback sts4.classpath.HqrzfpHC SUCCESS [done]
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2021-08-19 20:13:24.918
+!MESSAGE Project facet wst.jsdt.web has not been defined. It is used in plugin org.eclipse.jst.server.core.
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2021-08-19 20:13:24.918
+!MESSAGE Project facet wst.jsdt.web has not been defined. It is used in plugin org.eclipse.jst.server.preview.adapter.
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2021-08-19 20:13:24.919
+!MESSAGE Project facet wst.jsdt.web has not been defined. It is used in plugin org.eclipse.jst.server.tomcat.core.
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2021-08-19 20:13:24.919
+!MESSAGE Project facet wst.jsdt.web has not been defined. It is used in plugin org.eclipse.wst.server.http.core.
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2021-08-19 20:13:24.919
+!MESSAGE Project facet wst.jsdt.web has not been defined. It is used in plugin org.eclipse.wst.server.preview.adapter.
+
+!ENTRY Activator 1 0 2021-08-19 20:13:25.072
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-19 20:13:25.126
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-19 20:13:25.296
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-19 20:13:25.302
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:13:25.363
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:13:25.366
+!MESSAGE classpath=66 entries
+
+!ENTRY Activator 1 0 2021-08-19 20:13:25.368
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:13:25.369
+!MESSAGE buffering callback sts4.classpath.HqrzfpHC strings false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:13:25.369
+!MESSAGE executing callback sts4.classpath.HqrzfpHC 1 batched events
+
+!ENTRY Activator 1 0 2021-08-19 20:13:25.376
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:13:25.435
+!MESSAGE executing callback sts4.classpath.HqrzfpHC SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-08-19 20:13:25.521
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-19 20:13:25.524
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:13:25.534
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:13:25.537
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:13:25.540
+!MESSAGE buffering callback sts4.classpath.HqrzfpHC strings false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:13:25.597
+!MESSAGE executing callback sts4.classpath.HqrzfpHC 1 batched events
+
+!ENTRY Activator 1 0 2021-08-19 20:13:25.597
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-19 20:13:25.642
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-19 20:13:25.661
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-19 20:13:25.684
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-19 20:13:25.715
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-19 20:13:25.717
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:13:25.803
+!MESSAGE executing callback sts4.classpath.HqrzfpHC SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:13:25.805
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:13:25.811
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:13:25.814
+!MESSAGE buffering callback sts4.classpath.HqrzfpHC strings false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:13:25.814
+!MESSAGE executing callback sts4.classpath.HqrzfpHC 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:13:25.969
+!MESSAGE executing callback sts4.classpath.HqrzfpHC SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-08-19 20:13:26.322
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-19 20:13:26.323
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-19 20:13:26.564
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-19 20:13:26.564
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-19 20:13:26.624
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-19 20:13:26.635
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:13:26.638
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:13:26.641
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:13:26.643
+!MESSAGE buffering callback sts4.classpath.HqrzfpHC strings false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:13:26.644
+!MESSAGE executing callback sts4.classpath.HqrzfpHC 1 batched events
+
+!ENTRY Activator 1 0 2021-08-19 20:13:26.751
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-19 20:13:26.751
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:13:26.764
+!MESSAGE executing callback sts4.classpath.HqrzfpHC SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:13:26.831
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:13:26.834
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:13:26.836
+!MESSAGE buffering callback sts4.classpath.HqrzfpHC strings false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:13:26.838
+!MESSAGE executing callback sts4.classpath.HqrzfpHC 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:13:26.897
+!MESSAGE executing callback sts4.classpath.HqrzfpHC SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:13:27.079
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:13:27.082
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:13:27.084
+!MESSAGE buffering callback sts4.classpath.HqrzfpHC strings false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:13:27.085
+!MESSAGE executing callback sts4.classpath.HqrzfpHC 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:13:27.117
+!MESSAGE executing callback sts4.classpath.HqrzfpHC SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-08-19 20:13:27.385
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-19 20:13:27.386
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-19 20:13:27.919
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-19 20:13:27.919
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:13:34.120
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.HqrzfpHC
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:13:34.121
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.HqrzfpHC
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:13:34.121
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:13:34.121
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.HqrzfpHC => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:13:48.526
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:13:48.526
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@7381eb15[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:13:48.527
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:13:50.129
+!MESSAGE Boot LS startup time from start to initialized: 1601ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:13:50.210
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.zwMZIZIuisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:13:50.211
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:13:50.211
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:13:50.211
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:13:50.212
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:13:50.212
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.zwMZIZIu => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:13:50.215
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:13:50.217
+!MESSAGE buffering callback sts4.classpath.zwMZIZIu firstproject false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:13:50.218
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:13:50.221
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:13:50.223
+!MESSAGE buffering callback sts4.classpath.zwMZIZIu strings false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:13:50.223
+!MESSAGE executing callback sts4.classpath.zwMZIZIu 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-19 20:13:50.485
+!MESSAGE executing callback sts4.classpath.zwMZIZIu SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-08-19 20:20:06.191
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-19 20:20:06.193
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-19 20:20:06.795
+!MESSAGE Has main method computation for project 'firstproject'
+
+!ENTRY Activator 1 0 2021-08-19 20:20:06.849
+!MESSAGE Has main method computation for project 'strings'
