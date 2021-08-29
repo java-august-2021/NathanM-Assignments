@@ -10,13 +10,13 @@ import com.nathan.mvc.repositories.BookRepository;
 @Service
 public class BookService {
     // adding the book repository as a dependency
-    private final BookRepository bookRepository;
+    private static BookRepository bookRepository;
     
     public BookService(BookRepository bookRepository) {
-        this.bookRepository = bookRepository;
+        BookService.bookRepository = bookRepository;
     }
     // returns all the books
-    public List<Book> allBooks() {
+    public static List<Book> allBooks() {
         return bookRepository.findAll();
     }
     // creates a book
@@ -32,7 +32,7 @@ public class BookService {
             return null;
         }
     }
-	public Book updateBook(Long id, String title, String desc, String lang, Integer numOfPages) {
+    public Book updateBook(Long id, String title, String desc, String lang, Integer numOfPages) {
 		Optional<Book> optionalBook = bookRepository.findById(id);
 		if(optionalBook.isPresent()) {
 			Book updateBook = optionalBook.get();
@@ -40,11 +40,13 @@ public class BookService {
 			updateBook.setDescription(desc);
 			updateBook.setLanguage(lang);
 			updateBook.setNumberOfPages(numOfPages);
+			
 			return bookRepository.save(updateBook);
 		} else {
-		return null; 
+			return null;
 		}
-	}
+		}
+	
 	public void deleteBook(Long id) {
 		bookRepository.deleteById(id);
 		
